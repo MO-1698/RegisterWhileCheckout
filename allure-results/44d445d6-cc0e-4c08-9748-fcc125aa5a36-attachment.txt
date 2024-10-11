@@ -1,0 +1,146 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                     Test Method: 'RegisterWhileCheckoutTests.validateRegisterWhileCheckout'                                     
+                                          Test Description: 'Validate user registration while checkout'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @12-10-2024 00:37:44.0561 AM
+[ReportManager] Initial URL: "about:blank" @12-10-2024 00:37:44.0591 AM
+[ReportManager] Navigate to url "https://automationexercise.com/". @12-10-2024 00:37:49.0278 AM
+[ReportManager] Verify that the element located by "By.xpath: //a[@style="color: orange;"]" text contains "Home". @12-10-2024 00:37:49.0339 AM
+[ReportManager] Expected "Home", and actual "Home" @12-10-2024 00:37:49.0586 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-38-00-699_12102024' @12-10-2024 00:38:00.0714 AM
+[ReportManager] Expected "Home", and actual "Home" @12-10-2024 00:38:00.0714 AM
+[ReportManager] Verification passed @12-10-2024 00:38:00.0714 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:01.0021 AM
+[ReportManager] Click "By.xpath: //a[@href="/products"]//i[@class="material-icons card_travel"]". @12-10-2024 00:38:06.0437 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:06.0721 AM
+[ReportManager] Click " Add to cart". @12-10-2024 00:38:06.0797 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:07.0879 AM
+[ReportManager] Click "Continue Shopping". @12-10-2024 00:38:07.0988 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:08.0264 AM
+[ReportManager] Click "By.xpath: //a[@href="/view_cart"]//i". @12-10-2024 00:38:11.0941 AM
+[ReportManager] Verify that the element located by "By.xpath: //li[@class="active"]" text contains "Shopping Cart". @12-10-2024 00:38:11.0948 AM
+[ReportManager] Expected "Shopping Cart", and actual "Shopping Cart" @12-10-2024 00:38:12.0179 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-38-13-216_12102024' @12-10-2024 00:38:13.0216 AM
+[ReportManager] Expected "Shopping Cart", and actual "Shopping Cart" @12-10-2024 00:38:13.0216 AM
+[ReportManager] Verification passed @12-10-2024 00:38:13.0216 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:13.0450 AM
+[ReportManager] Click "Proceed To Checkout". @12-10-2024 00:38:13.0539 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:13.0793 AM
+[ReportManager] Click "By.xpath: //a[@href="/login"]//u". @12-10-2024 00:38:17.0531 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:17.0836 AM
+[ReportManager] Type "Samy" into "Name". @12-10-2024 00:38:17.0976 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:18.0187 AM
+[ReportManager] Type "Samy@yahoo.com" into "Email Address". @12-10-2024 00:38:18.0362 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:18.0605 AM
+[ReportManager] Click "Signup". @12-10-2024 00:38:21.0144 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:21.0491 AM
+[ReportManager] Click "Mr.". @12-10-2024 00:38:21.0590 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:21.0863 AM
+[ReportManager] Type "Samy" into "Name *". @12-10-2024 00:38:22.0032 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:22.0241 AM
+[ReportManager] Type "Samy123456789" into "Password *". @12-10-2024 00:38:22.0414 AM
+[ReportManager] Click "1". @12-10-2024 00:38:22.0614 AM
+[ReportManager] Click "January". @12-10-2024 00:38:22.0792 AM
+[ReportManager] Click "2001". @12-10-2024 00:38:23.0014 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:23.0281 AM
+[ReportManager] Click "Sign up for our newsletter!". @12-10-2024 00:38:23.0390 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:23.0623 AM
+[ReportManager] Click "Receive special offers from our partners!". @12-10-2024 00:38:23.0728 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:23.0969 AM
+[ReportManager] Type "Samy" into "First name *". @12-10-2024 00:38:24.0132 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:24.0373 AM
+[ReportManager] Type "Madvic" into "Last name *". @12-10-2024 00:38:24.0558 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:24.0799 AM
+[ReportManager] Type "Canada Travel" into "Company". @12-10-2024 00:38:25.0019 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:25.0232 AM
+[ReportManager] Type "1250 Grand Lake Rd, Sydney, NS B1M 1A2, Canada" into "Address * (Street address, P.O. Box, Company name, etc.)". @12-10-2024 00:38:25.0573 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:25.0782 AM
+[ReportManager] Type "1255 Grand Lake Rd, Sydney, NS B1M 1A2, Canada" into "Address 2". @12-10-2024 00:38:26.0120 AM
+[ReportManager] Click "Canada". @12-10-2024 00:38:26.0312 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:26.0556 AM
+[ReportManager] Type "Nova Scotia" into "State *". @12-10-2024 00:38:26.0786 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:26.0987 AM
+[ReportManager] Type "Sydney" into "City * Zipcode *". @12-10-2024 00:38:27.0141 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:27.0365 AM
+[ReportManager] Type "B1P 6L2" into "By.xpath: //input[@data-qa="zipcode"]". @12-10-2024 00:38:27.0540 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:27.0690 AM
+[ReportManager] Type "(902) 540-5555" into "Mobile Number *". @12-10-2024 00:38:27.0832 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:28.0032 AM
+[ReportManager] Click "Create Account". @12-10-2024 00:38:30.0506 AM
+[ReportManager] Verify that the element located by "By.xpath: //h2[@data-qa="account-created"]" text is equal to "ACCOUNT CREATED!". @12-10-2024 00:38:30.0511 AM
+[ReportManager] Expected "ACCOUNT CREATED!", and actual "ACCOUNT CREATED!" @12-10-2024 00:38:30.0795 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-38-31-889_12102024' @12-10-2024 00:38:31.0889 AM
+[ReportManager] Expected "ACCOUNT CREATED!", and actual "ACCOUNT CREATED!" @12-10-2024 00:38:31.0889 AM
+[ReportManager] Verification passed @12-10-2024 00:38:31.0889 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:32.0158 AM
+[ReportManager] Click "Continue". @12-10-2024 00:38:35.0691 AM
+[ReportManager] Verify that the element located by "By.xpath: //ul[@class="nav navbar-nav"]" text contains "Logged in as Samy". @12-10-2024 00:38:35.0691 AM
+[ReportManager] Expected "Logged in as Samy", and actual "Home
+ Products
+Cart
+Logout
+Delete Account
+Test Cases
+API Testing
+Video Tutorials
+Contact us
+Logged in as Samy" @12-10-2024 00:38:35.0990 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-38-46-827_12102024' @12-10-2024 00:38:46.0858 AM
+[ReportManager] Expected "Logged in as Samy", and actual "Home
+ Products
+Cart
+Logout
+Delete Account
+Test Cases
+API Testing
+Video Tutorials
+Contact us
+Logged in as Samy" @12-10-2024 00:38:46.0858 AM
+[ReportManager] Verification passed @12-10-2024 00:38:46.0858 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:47.0097 AM
+[ReportManager] Click "By.xpath: //a[@href="/view_cart"]//i". @12-10-2024 00:38:49.0129 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:49.0452 AM
+[ReportManager] Click "Proceed To Checkout". @12-10-2024 00:38:50.0764 AM
+[ReportManager] Verify that the element located by "By.xpath: //h2[@class='heading' and text()='Address Details']" text contains "Address Details". @12-10-2024 00:38:50.0764 AM
+[ReportManager] Expected "Address Details", and actual "Address Details" @12-10-2024 00:38:51.0038 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-38-52-485_12102024' @12-10-2024 00:38:52.0500 AM
+[ReportManager] Expected "Address Details", and actual "Address Details" @12-10-2024 00:38:52.0500 AM
+[ReportManager] Verification passed @12-10-2024 00:38:52.0500 AM
+[ReportManager] Verify that the element located by "By.xpath: //h2[@class='heading' and text()='Review Your Order']" text contains "Review Your Order". @12-10-2024 00:38:52.0502 AM
+[ReportManager] Expected "Review Your Order", and actual "Review Your Order" @12-10-2024 00:38:52.0704 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-38-54-103_12102024' @12-10-2024 00:38:54.0103 AM
+[ReportManager] Expected "Review Your Order", and actual "Review Your Order" @12-10-2024 00:38:54.0103 AM
+[ReportManager] Verification passed @12-10-2024 00:38:54.0103 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:54.0325 AM
+[ReportManager] Type "This is just a test" into "By.xpath: //textarea[@class="form-control"]". @12-10-2024 00:38:54.0549 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:54.0797 AM
+[ReportManager] Click "Place Order". @12-10-2024 00:38:56.0677 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:56.0929 AM
+[ReportManager] Type "Sam" into "By.xpath: //input[@class="form-control"]". @12-10-2024 00:38:57.0073 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:57.0309 AM
+[ReportManager] Type "123456789" into "By.xpath: //input[@data-qa="card-number"]". @12-10-2024 00:38:57.0465 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:57.0658 AM
+[ReportManager] Type "311" into "ex. 311". @12-10-2024 00:38:57.0806 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:58.0035 AM
+[ReportManager] Type "10" into "MM". @12-10-2024 00:38:58.0176 AM
+[ReportManager] Text cleared Using Native Clear @12-10-2024 00:38:58.0383 AM
+[ReportManager] Type "2026" into "YYYY". @12-10-2024 00:38:58.0523 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:38:58.0757 AM
+[ReportManager] Click "Pay and Confirm Order". @12-10-2024 00:39:01.0492 AM
+[ReportManager] Verify that the element located by "By.xpath: //p[@style="font-size: 20px; font-family: garamond;"]" text contains "Congratulations! Your order has been confirmed!". @12-10-2024 00:39:01.0492 AM
+[ReportManager] Expected "Congratulations! Your order has been confirmed!", and actual "Congratulations! Your order has been confirmed!" @12-10-2024 00:39:01.0762 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-39-02-744_12102024' @12-10-2024 00:39:02.0744 AM
+[ReportManager] Expected "Congratulations! Your order has been confirmed!", and actual "Congratulations! Your order has been confirmed!" @12-10-2024 00:39:02.0744 AM
+[ReportManager] Verification passed @12-10-2024 00:39:02.0744 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:39:02.0990 AM
+[ReportManager] Click "By.xpath: //a[@href="/delete_account"]//i". @12-10-2024 00:39:04.0976 AM
+[ReportManager] Verify that the element located by "By.xpath: //h2[@data-qa="account-deleted"]//b" text contains "ACCOUNT DELETED!". @12-10-2024 00:39:04.0980 AM
+[ReportManager] Expected "ACCOUNT DELETED!", and actual "ACCOUNT DELETED!" @12-10-2024 00:39:05.0245 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_00-39-06-225_12102024' @12-10-2024 00:39:06.0237 AM
+[ReportManager] Expected "ACCOUNT DELETED!", and actual "ACCOUNT DELETED!" @12-10-2024 00:39:06.0237 AM
+[ReportManager] Verification passed @12-10-2024 00:39:06.0237 AM
+[ReportManager] Moved the mouse to the middle of the element. @12-10-2024 00:39:06.0478 AM
+[ReportManager] Click "Continue". @12-10-2024 00:39:10.0490 AM
